@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @MateoDi9z
-# 👀 My skills are:
+### 👀 My skills are:
 - [x] HTML
 - [x] CSS3
 - [x] SASS/SCSS
