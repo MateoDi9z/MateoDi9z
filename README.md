@@ -1,3 +1,17 @@
 ## 👋 Hi, I’m @MateoDi9z
-### 👀 My skills are: 
-- HTML | CSS3 | SASS/SCSS | PYTHON | JAVASCRIPT | VUE.JS | REACT.JS | EXPRESS.JS | MONGODB | MYSQL | BOOTSTRAP | DJANGO
+### This are my main skills:
+
+Front-end:
+  - HTML
+  - CSS3
+  - Javascipt
+  - SASS/SCSS
+  - Frameworks (Vue.js, React)
+  - Other libraries (Bootstrap, tailwindcss)
+Back-end:
+  - Node.js (Express.js)
+  - MongoDB
+  - MYSQL 
+  - Python (DJANGO)
+
+Fullstack: Unit Testing, Docker
