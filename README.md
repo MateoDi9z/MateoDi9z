@@ -12,6 +12,7 @@
 
 > Back-end:
   - Node.js (Express.js)
+  - Firebase
   - MongoDB
   - MYSQL 
   - Python (DJANGO)
