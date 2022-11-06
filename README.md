@@ -24,4 +24,4 @@
   - Blockchain (Solidity)
 
 > Certifications
-  - [Javascript HakerRank Certification](https://www.hackerrank.com/certificates/9c246e17a21a)
+  - [Javascript HackerRank Certification](https://www.hackerrank.com/certificates/9c246e17a21a)
