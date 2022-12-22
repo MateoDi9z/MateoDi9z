@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @MateoDi9z
+
+# 👋 Hi, I’m @MateoDi9z
 
 
 ## 🌐 Socials:
