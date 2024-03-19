@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m @MateoDi9z
-<h3 align="left">Egresado de Técnico Electrónico en la Escuela Técnica Roberto Rocca</h3>
+<p align="center">Egresado de Técnico Electrónico en la Escuela Técnica Roberto Rocca y <br> actual estudiante de Ingeniería Informática en la Universidad Austral</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateodi9z" alt="mateodi9z" /></a> </p>
 
