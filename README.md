@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente trabajando en [Coexist (Proyecto con socios)](https://coexist.website/)
 
-- 🌱 Estoy aprendiendo **Elixir y Zig**
+- 🌱 Estoy aprendiendo **Rust y desarrollo blockchain**
 
 - 👨‍💻 Mis proyectos [https://github.com/MateoDi9z](https://github.com/MateoDi9z)
 
