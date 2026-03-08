@@ -4,13 +4,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateodi9z" alt="mateodi9z" /></a> </p>
 
-- 🔭 Actualmente trabajando en [Coexist (Proyecto con socios)](https://coexist.website/)
+- 🔭 Actualmente trabajando en [LemiPay](https://lemipay-app.vercel.app/)
 
 - 🌱 Estoy aprendiendo **Rust y desarrollo blockchain**
 
 - 👨‍💻 Mis proyectos [https://github.com/MateoDi9z](https://github.com/MateoDi9z)
 
-- 💬 Experimentado en **Vue.js, Typescript, Python y Web**
+- 💬 Experimentado en **Next.JS, Vue.js, Typescript, Python, Java y Rust**
 
 - 📫 Como contactarme **dzmateozd@gmail.com**
 
