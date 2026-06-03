@@ -12,9 +12,9 @@
 
 - 💬 Experimentado en **Next.JS, Vue.js, Typescript, Python, Java y Rust**
 
-- 📫 Como contactarme **dzmateozd@gmail.com**
+- 📫 Como contactarme **contact@mateodiaz.tech**
 
-- 📄 Conoce mis experiencias [cv](cv)
+- 📄 Conoce mis experiencias [cv](./cv.pdf)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MateoDi9z#5792) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-diaz-306920249) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12714309) 
